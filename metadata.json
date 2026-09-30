@@ -1,0 +1,6 @@
+{
+  "name": "Medha Maths",
+  "description": "Premium online learning platform for school students from Class 6 to Class 12. Complete CBSE & State Board courses, study material, tests, and exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
